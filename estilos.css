@@ -1,3 +1,9 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+@font-face {
+  font-family: ;
+}
 .wrapper {
   max-width: 1300px;
   margin: auto;
@@ -59,16 +65,12 @@
   background: white;
   border:  1px solid rgba(117, 117, 117, 0.2);
 }
-.nike-size-box  p {
+/* .nike-size-box  p {
   padding: 0;
-  width: 95px;
+  width: 100px;
   margin: 10px auto;
-}
-.nike-size-box-white p {
-  padding: 0;
-  width: 95px;
-  margin: 10px auto;
-}
+} */
+/*  */
 .shopping-bag {
   width: 391px;
   margin-bottom: 10px;
@@ -120,6 +122,18 @@ h2 {
   gap: 20px;
   margin-bottom: 20px;
 }
-.nike-size-box.box1 {
-  width: ;
+.box1 {
+  padding: 0;
+  width: 65px;
+  margin: 10px auto;
+}
+.box2 {
+  padding: 0;
+  width: 50px;
+  margin: 10px auto;
+}
+.box0 {
+  padding: 0;
+  width: 100px;
+  margin: 10px auto;
 }
